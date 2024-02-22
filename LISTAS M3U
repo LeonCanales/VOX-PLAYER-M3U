@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 01
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 01
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv1.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 02
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 02
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv2.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 03
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 03
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv3.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 04
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 04
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv4.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 05
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 05
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv5.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 06
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 06
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv6.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 07
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 07
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv7.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 08
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 08
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv8.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 09
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 09
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv9.m3u
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", L1STA 10
+#EXTINF:-1 TVG-LOGO="https://img.freepik.com/vector-gratis/simple-clasico-television_1308-111236.jpg" GROUP-TITLE="TELEVISION", L1STA 10
 https://raw.githubusercontent.com/rb1223/masterapp/main/020ftv10.m3u
